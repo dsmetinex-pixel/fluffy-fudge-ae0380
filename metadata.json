@@ -1,0 +1,6 @@
+{
+  "name": "Metinex Aluminium",
+  "description": "Stock Management and Inventory System for Metinex Aluminium with live stock tracking, stock in/out transactions, reports, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
